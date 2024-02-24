@@ -13,7 +13,10 @@ Text decryption: Decrypt AES-encoded text using the secret key.
 Secure storage: Store encrypted text securely within the app.
 Clean and intuitive user interface.
 Contributing
-Contributions to the Code Vault app are welcome! If you would like to contribute, please follow these steps:
+Contributions to the Code Vault app are welcome! 
+
+
+If you would like to contribute, please follow these steps:
 
 Fork the repository.
 
