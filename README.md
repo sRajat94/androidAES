@@ -1,8 +1,7 @@
 # androidAES
 
 ![GitHub Release](https://img.shields.io/github/v/release/sRajat94/androidAES)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sRajat94/androidAES/total)
-
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sRajat94/androidAES/total.svg)
 
 Crypto - Android App
 Crypto is an Android application developed using Android Studio that provides encryption and decryption of text using the AES256 algorithm and a secret key. This app allows users to securely store and share sensitive information by encoding it into AES256 format with a secret key.
