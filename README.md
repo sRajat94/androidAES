@@ -1,8 +1,7 @@
 # androidAES
 
 ![GitHub Release](https://img.shields.io/github/v/release/sRajat94/androidAES)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sRajat94/androidAES/total.svg)
-[![Generic badge](https://img.shields.io/badge/download-56-<Blue>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/downloads-56-<Blue>.svg)](https://shields.io/)
 
 
 Crypto - Android App
